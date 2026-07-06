@@ -1,0 +1,78 @@
+# Her satıra bir kelime yaz (küçük/büyük harf fark etmez).
+# Tam kelime eşleşmesi yapılır (kök tahmini yapılmaz), bu yüzden
+# bir kelimenin farklı çekim hallerini de ayrı satır olarak eklemen gerekir.
+# Bu yaygın kullanılan hakaret/küfür kelimelerinden oluşan
+# genel bir başlangıç listesidir. Kendine göre ekleyip çıkarabilirsin.
+
+# --- sik kökü ---
+sik
+sikik
+sikeyim
+sikerim
+sikim
+siktir
+siktim
+sikişme
+sikişmek
+sikme
+sikmem
+sikmek
+sikeceğim
+sikiyim
+
+# --- yarrak / yarak kökü ---
+yarrak
+yarak
+yarrağı
+yarağı
+yarrağını
+yarağını
+yarrağımı
+yarağımı
+
+# --- am kökü (argo) ---
+amcık
+amına
+amk
+amq
+am
+amına goyim böyle hayatın
+
+# --- göt kökü ---
+göt
+götveren
+götlek
+götoş
+
+# --- piç ---
+piç
+piçim
+piçler
+piçliği
+
+# --- orospu / kaltak vb. ---
+orospu
+kahpe
+kaltak
+sürtük
+fahişe
+
+# --- diğer yaygın hakaretler ---
+şerefsiz
+namussuz
+pezevenk
+ibne
+gavat
+dallama
+şıllık
+kancık
+puşt
+çük
+çüksüz
+gerizekalı
+angut
+dangalak
+ahmak
+manyak
+hıyar
+dazlak

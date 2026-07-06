@@ -1,0 +1,3 @@
+pip install spotipy syncedlyrics
+
+Bunu cmd'yi yada powershell'i yönetici olarak başlatıp yazın.
