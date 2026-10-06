@@ -1,5 +1,4 @@
-Merhaba, Sonnet 5 ve Gemini 3.1 ile yaptığım açık kaynak kodlu Spotify ve Youtube Music için küfür engelleme şeysini göstereceğim.
-
+Merhaba, Sonnet 5 ve Gemini 3.1 ile yaptığım açık kaynak kodlu Spotify ve Youtube Music için küfür engelleme aracı
 Her şeyden önce Spotify Premium (Spotify sürümü için) ve bilgisayarınızda Python olmalı!
 
 GitHub - BENBER001/Kufur-savar: Spotify'daki küfürleri engeller üzerinden dosyaları indirin.
